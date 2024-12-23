@@ -12,7 +12,7 @@ Download the index.html file to your computer.
   * Fixed land expansion.
   * Added rotate button for decorations for mobile users.
 
-* Beta 1.2 - dec 22
+* Beta 1.2 - dec 23
   * NEW skin! Farmerz Fone.
   * Updated the tutorial.
   * Hopefully fixed glitch upon entering farmhouse.
@@ -22,3 +22,4 @@ Download the index.html file to your computer.
   * Added a screen to pick which game version to play on. 
   * Loading screen would look weird on some screen sizes, fixed now.
   * Prevent players from exit skin menu while spinning lucky wheel, by back arrow.
+  * Added fullscreen button to settings.
